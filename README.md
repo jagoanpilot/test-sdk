@@ -1,13 +1,8 @@
-# BSCswap SDK
+# Pancakeswap SDK
 
-[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
-[![Actions Status](https://github.com/bscswap/bscswap-sdk/workflows/CI/badge.svg)](https://github.com/bscswap/bscswap-sdk)
-[![npm version](https://img.shields.io/npm/v/@bscswap/sdk/latest.svg)](https://www.npmjs.com/package/@bscswap/sdk/v/latest)
-[![npm bundle size (scoped version)](https://img.shields.io/bundlephobia/minzip/@bscswap/sdk/latest.svg)](https://bundlephobia.com/result?p=@bscswap/sdk@latest)
+Forked from the [Uniswap SDK](https://github.com/Uniswap/uniswap-v2-sdk/commit/a88048e9c4198a5bdaea00883ca00c8c8e582605).
 
-Common library used accross for BSCswap Frontend implementation [https://github.com/bscswap/bscswap-interface](https://github.com/bscswap/bscswap-interface).
-
-In-depth documentation on this SDK is available at [uniswap.org](https://uniswap.org/docs/v2/SDK/getting-started/).
+You can refer to the Uniswap SDK documentation [uniswap.org](https://uniswap.org/docs/v2/SDK/getting-started/).
 
 ## Running tests
 
@@ -16,13 +11,13 @@ To run the tests, follow these steps. You must have at least node v10 and [yarn]
 First clone the repository:
 
 ```sh
-git clone https://github.com/bscswap/bscswap-sdk.git
+git clone https://github.com/pancakeswap/pancake-swap-sdk.git
 ```
 
-Move into the uniswap-sdk working directory
+Move into the pancakeswap-sdk working directory
 
 ```sh
-cd bscswap-sdk/
+cd pancakeswap-sdk/
 ```
 
 Install dependencies
